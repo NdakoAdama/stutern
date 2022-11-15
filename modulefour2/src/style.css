@@ -1,0 +1,36 @@
+#first #F{
+    font-size: 18px;
+}
+#first p{
+    color: green;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    border: 2px solid rgb(47, 47, 48);
+    padding: 10px;
+    margin: 20px;
+}
+#second #S{
+    font-size: 18px;
+}
+#second p{
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    border: 2px solid brown;
+    padding: 10px;
+    margin: 20px;
+}
+#third #T{
+    font-size: 18px;
+}
+#third p{
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    border: 2px solid purple;
+    padding: 10px;
+    margin: 20px;
+}
