@@ -1,0 +1,24 @@
+.List .Likes{
+    background-color: aqua;
+    font-size: large;
+}
+#A{
+    color: brown;
+}
+#A h3{
+    color:black;
+    font-weight: bold;
+    font-style: italic;
+}
+.List .Dislikes{
+    background-color: thistle;
+    font-size: large;
+}
+#B{
+    color: darkblue;
+}
+#B h3{
+    color: darkolivegreen;
+    font-weight: bolder;
+    font-style: normal;
+}
